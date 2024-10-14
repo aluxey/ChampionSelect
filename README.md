@@ -57,7 +57,7 @@
 Clonez ce repository :
 
 ```bash
-git clone https://github.com/ton-utilisateur/lol-champ-selector.git
+git clone git@github.com:aluxey/ChampionSelect.git
 ```
 
 Installez les dépendances du frontend et backend :
